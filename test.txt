@@ -1,0 +1,6 @@
+# File to test pull request from Jenkins
+
+#TEST 1
+     #- clone this repo from Jenkins
+     #- edit this file from Jenkins
+     #- create pull request for the changes from Jenkins
